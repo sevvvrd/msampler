@@ -3,4 +3,4 @@
 
 -other libraries: os, random, pandas, urllib.parse(urlparse).
 
--this is only meant as a simple tool but if you want to improve it or modify it in any way, just send me a dm on discord (sevrd#6382) and i'll send you the source code!
+-this is only meant as a simple tool but if you want to improve it or modify it in any way, please feel free to do so. This program is open source :)
